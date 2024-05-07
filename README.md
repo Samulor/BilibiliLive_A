@@ -13,7 +13,8 @@ B站后台直播
 2.  命令行执行 python MainGUI.py 能运行GUI界面
 
 
-#### 使用说明   python3.8环境安装如下包
+#### 使用说明   
+python3.8环境安装如下包
 
 aiohttp                   3.9.5
 aligo                     6.2.2
